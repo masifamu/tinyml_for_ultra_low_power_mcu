@@ -30,6 +30,7 @@ TBD
 1. Clone this repo   
 **tflite-micro-arduino-examples**
 >cd ~/Arduino/libraries
+>
 >git clone https://github.com/tensorflow/tflite-micro-arduino-examples Arduino_TensorFlowLite
 2. Put this into
 2. Change the dir
